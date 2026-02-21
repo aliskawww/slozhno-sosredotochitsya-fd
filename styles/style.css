@@ -127,7 +127,7 @@
   margin: var(--indent);
 }
 
-.header__title-description, .title-decor{
+.header__title-description, .title-decor {
   background-color: var(--accent-color);
   color: var(--text-description-color);
   font-family: var(--main-font), sans-serif;
