@@ -4,13 +4,21 @@
 */
 :root {
   --cover-image: url('../images/cover-image-dark.png');
+  --header-text-color: #ff0070;
+  --rec-display: inline-flex;
+  --opacity-border: #FF007066;
+  --title-color: #DB00FF;
+  --text-description-color: #000028;
+  --background-color: #000028;
+  --main-text-color: var(--header-text-color);
+  --footer-accent-color: var(--accent-color);
   --accent-color: #FF0070;
   --main-font: 'IBM Plex mono';
   --main-size: 18px;
   --main-weight: 400;
   --bold-weight: 700;
-  --title-color: #DB00FF;
-  --background-color: #000028;
   --main-line-height: 23.4px;
   --text-card-color: #F1B2CE;
+  --indent: 10px;
+  --rec-display: inline-flex;
 }
