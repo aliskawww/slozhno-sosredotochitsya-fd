@@ -179,7 +179,7 @@
 }
 
 .card__link:hover {
-  text-decoration: underline;
+  border-bottom: 1px solid var(--text-card-color);
 }
 
 .card__link:focus-visible {
